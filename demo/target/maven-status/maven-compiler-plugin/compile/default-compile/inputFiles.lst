@@ -1,0 +1,12 @@
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/Commend.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/DemoApplication.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/Query.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/Commandhandlers/CreateProductCommandHandler.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/Commandhandlers/UpdateProductCommandHandler.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/Model/DeleteProductQueryHandler.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/Model/Product.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/Model/UpdateProductCommand.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/ProductController.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/ProductRepository.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/queryhandlers/GetAllProductsQueryHandler.java
+/Users/mac/Desktop/Projects/java/website/backend/demo/src/main/java/com/example/demo/product/queryhandlers/GetProductQueryHandler.java
